@@ -1,6 +1,6 @@
 # MemeLand
 
-A new Flutter application.
+Uma aplicação feita para o trabalho da Disciplina de multicamadas do curso de BSI
 
 ## Getting Started
 
